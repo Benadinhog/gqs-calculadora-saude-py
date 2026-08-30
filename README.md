@@ -2,21 +2,21 @@
 
 ## Descrição do Projeto
 
-O **Sistema de Saúde e Bem-Estar** é um programa desenvolvido em Python para realizar alguns cálculos básicos relacionados à saúde.
+O **Sistema de Saúde e Bem-Estar** é um programa desenvolvido em Python para realizar alguns cálculos básicos relacionados à saúde
 
 O sistema possui um menu interativo com três funcionalidades principais:
 
-1. **Cálculo do IMC** — calcula o Índice de Massa Corporal com base no peso e na altura e informa sua classificação.
-2. **Recomendação de água** — estima a quantidade diária de água recomendada considerando 35 ml por quilograma de peso.
-3. **Frequência cardíaca máxima** — calcula uma estimativa da frequência cardíaca máxima utilizando a fórmula `220 - idade`.
+1. **Cálculo do IMC** — calcula o Índice de Massa Corporal com base no peso e na altura e informa sua classificação
+2. **Recomendação de água** — estima a quantidade diária de água recomendada considerando 35 ml por quilograma de peso
+3. **Frequência cardíaca máxima** — calcula uma estimativa da frequência cardíaca máxima utilizando a fórmula `220 - idade`
 
-Também existe uma opção para encerrar o programa.
+Também existe uma opção para encerrar o programa
 
 ---
 
 ## Relatório de Bugs Encontrados
 
-Durante a análise do código original, foram identificados **7 bugs**, envolvendo erros de lógica matemática, tipos de dados e fluxo de execução.
+Durante a análise do código original, foram identificados **7 bugs**, envolvendo erros de lógica matemática, tipos de dados e fluxo de execução
 
 | Local do Bug | Comportamento Incorreto Observado | Solução Aplicada |
 |---|---|---|
